@@ -11,6 +11,7 @@ add_message_files(
   Grammar.msg
   PhraseRule.msg
   SpeechRecognitionCandidates.msg
+  SpeechRecognitionCandidatesStamped.msg
   Vocabulary.msg
 )
 
